@@ -1,5 +1,7 @@
 # The Cell That Broke Excel
 
+![Handwritten](https://img.shields.io/badge/provenance-handwritten-brightgreen)
+
 Before I learned to program, I pushed spreadsheet formulas to their 
 absolute limit. This is one surviving cell — a single formula roughly 
 two A4 pages long, used for a forex take-profit/stop-loss calculation.
