@@ -2,6 +2,8 @@
 
 ![Handwritten](https://img.shields.io/badge/provenance-handwritten-brightgreen)
 
+*2016: written before git, first committed in 2026*
+
 Before I learned to program, I pushed spreadsheet formulas to their 
 absolute limit. This is one surviving cell — a single formula roughly 
 two A4 pages long, used for a forex take-profit/stop-loss calculation.
