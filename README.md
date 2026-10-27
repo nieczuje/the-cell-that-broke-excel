@@ -18,5 +18,5 @@ it *feel* more readable. It wasn't.
 *P.S. Want to see the actual mess behind it? [Draft history](draft-history.txt) 
 shows every half-finished attempt, merge, and dead end along the way.*
 
-![The formula](formula-colored1.png)
-![The formula](formula-colored2.png)
+![The formula](readme-images/formula-colored-1.png)
+![The formula](readme-images/formula-colored-2.png)
