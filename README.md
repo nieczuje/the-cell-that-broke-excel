@@ -4,19 +4,19 @@
 
 *2016: written before git, first committed in 2026*
 
-Before I learned to program, I pushed spreadsheet formulas to their 
-absolute limit. This is one surviving cell — a single formula roughly 
-two A4 pages long, used for a forex take-profit/stop-loss calculation.
+Before I learned to program, I pushed spreadsheet formulas to their absolute limit. This is one surviving cell — a single formula roughly two A4 pages long, used for a forex take-profit/stop-loss calculation.
 
-Duplicating this formula across multiple cells reliably broke the 
-spreadsheet. That breaking point is basically what pushed me to start 
-programming for real.
+Duplicating this formula across multiple cells reliably broke the spreadsheet. That breaking point is basically what pushed me to start programming for real.
 
-Each cell reference is color-coded consistently throughout — which made 
-it *feel* more readable. It wasn't.
+Each cell reference is color-coded consistently throughout — which made it *feel* more readable. It wasn't.
 
-*P.S. Want to see the actual mess behind it? [Draft history](draft-history.txt) 
-shows every half-finished attempt, merge, and dead end along the way.*
+*P.S. Want to see the actual mess behind it? [Draft history](draft-history.txt) shows every half-finished attempt, merge, and dead end along the way.*
 
 ![The formula](readme-images/formula-colored-1.png)
 ![The formula](readme-images/formula-colored-2.png)
+
+<div align="right">
+
+*README written with AI assistance.*
+
+</div>
